@@ -10,7 +10,7 @@ public class Main {
 
          SalesTax = PricePurchase * TaxRate ;
 
-        System.out.println("The price is " + PricePurchase);
+        System.out.println("The price of the purchase is " + PricePurchase);
         System.out.println("The sales Tax is " + SalesTax);
     }
 
